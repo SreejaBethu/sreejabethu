@@ -1,3 +1,3 @@
 ### Hi I'm Sreeja 👋
 
-[![SreejaBethu GitHub stats](https://github-readme-stats.vercel.app/api?username=sreehabethu)](https://github.com/sreejabethu/github-readme-stats)
+[![SreejaBethu GitHub stats](https://github-readme-stats.vercel.app/api?username=sreejabethu)](https://github.com/sreejabethu/github-readme-stats)
