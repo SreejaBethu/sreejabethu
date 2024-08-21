@@ -1,5 +1,5 @@
 ### Hi I'm Sreeja 👋
-#### Data Analyst
+# Data Analyst
 
 ![SreejaBethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreejabethu&show_icons=true&theme=ambient_gradient)
 
