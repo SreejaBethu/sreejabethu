@@ -1,13 +1,9 @@
-[![MasterHead](https://github.com/SreejaBethu/SreejaBethu.github.io/blob/main/Github_banner_business_data_analyst.jpg)]
+![MasterHead](https://github.com/SreejaBethu/SreejaBethu.github.io/blob/main/Github_banner_business_data_analyst.jpg)
 
 <h3 align="center">An Experienced Business Data Analyst</h3>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejabethu&label=Profile%20views&color=0e75b6&style=flat" alt="sreejabethu" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejabethu" alt="sreejabethu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/SreejaBethu/SreejaBethu.github.io/blob/main/Data%20analysis.gif"/> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejabethu&label=Profile%20views&color=0e75b6&style=flat" alt="sreejabethu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejabethu" alt="sreejabethu" /></a> </p>
-
 - 🔭 I’m currently working on [Diabetes patient Analysis](https://github.com/SreejaBethu/Diabetes-Patient-Analysis)
 
 - 🌱 I’m currently learning **Snowflakes**
