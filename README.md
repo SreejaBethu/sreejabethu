@@ -2,6 +2,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejabethu&label=Profile%20views&color=0e75b6&style=flat" alt="sreejabethu" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejabethu" alt="sreejabethu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/SreejaBethu/SreejaBethu.github.io/blob/main/Data%20analysis.gif"/> 
+
 - 🔭 I’m currently working on [Diabetes patient Analysis](https://github.com/SreejaBethu/Diabetes-Patient-Analysis)
 
 - 🌱 I’m currently learning **Snowflakes**
