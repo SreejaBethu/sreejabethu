@@ -17,6 +17,7 @@ I enjoy working with large datasets, building dashboards, and generating reports
  **Excel** – *Functions, pivot tables, dashboards, and VBA basics*
 
 
+
 ### 📊 Data Visualization
 
    **Power BI** – *Interactive dashboards and data storytelling*
@@ -24,6 +25,7 @@ I enjoy working with large datasets, building dashboards, and generating reports
  **Tableau** – *Dynamic reports and visual analytics*
    
 **Matplotlib / Seaborn / Plotly** – *Python-based visualizations*
+
 
 
 ### 🛠️ Data Handling & Workflow
