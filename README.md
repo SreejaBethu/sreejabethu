@@ -1,39 +1,93 @@
-<h3 align="center">An Experienced Business Data Analyst</h3>
+👋 Hi there! I'm Sreeja Bethu 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejabethu&label=Profile%20views&color=0e75b6&style=flat" alt="sreejabethu" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejabethu" alt="sreejabethu" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/SreejaBethu/SreejaBethu.github.io/blob/main/Data%20analysis.gif"/> 
+🎯 Data Analyst | Aspiring Business Analyst | Insight-Driven Storyteller
 
-- 🔭 I’m currently working on [Diabetes patient Analysis](https://github.com/SreejaBethu/Diabetes-Patient-Analysis)
+I'm passionate about transforming data into actionable insights that drive strategic decisions and measurable outcomes. With a strong foundation in both data analytics and business understanding, I specialize in uncovering trends, solving real-world problems, and helping organizations make data-backed decisions.
 
-- 🌱 I’m currently learning **Snowflakes**
+I enjoy working with large datasets, building dashboards, and generating reports that speak the language of business. From cleaning raw data to visualizing key metrics, I make sure every data point counts.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SreejaBethu](https://github.com/SreejaBethu)
+🧰 Skills & Tools
 
-- 💬 Ask me about **Python, Pandas, Data Visualization, Matplotlab, Seaborn**
+👩‍💻 Programming & Query Languages
 
-- 📫 How to reach me **bethusreeja22@gmail.com**
+   Python – Data manipulation (Pandas, NumPy), analysis, and automation
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sreejabethu/](https://www.linkedin.com/in/sreejabethu/)
+   SQL – Advanced querying, joins, CTEs, window functions, and optimization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sreejabethu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreejabethu/" height="30" width="40" /></a>
-</p>
+   Excel – Functions, pivot tables, dashboards, and VBA basics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreejabethu&show_icons=true&locale=en&layout=compact" alt="sreejabethu" /></p>
+📊 Data Visualization
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejabethu&show_icons=true&locale=en" alt="sreejabethu" /></p>
+   Power BI – Interactive dashboards and data storytelling
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejabethu&" alt="sreejabethu" /></p>
+   Tableau – Dynamic reports and visual analytics
+
+   Matplotlib / Seaborn / Plotly – Python-based visualizations
+
+
+🛠️ Data Handling & Workflow
+
+   ETL Processes – Cleaning, transforming, and loading structured data
+
+   PIs & Web Scraping – Requests, BeautifulSoup
+
+   Git & GitHub – Version control and collaborative development
+
+   Jupyter Notebook / Google Colab – Exploratory data analysis notebooks
+
+
+💼 Featured Projects
+
+Here are a few projects that reflect my skills and problem-solving capabilities:
+
+📈 Smart Report Analyzer
+
+Leverages LLMs and AI agents to automatically analyze reports (PDF/Excel/CSV) and generate actionable summaries, charts, and insights.
+
+   🔍 Automated insight extraction using Python & OpenAI APIs
+
+   📊 Visualizations using Plotly and Matplotlib
+
+   🤖 Intelligent summarization & natural language generation
+
+
+🌍 Cost of Living Index Globally
+
+An interactive Streamlit application visualizing and comparing cost of living indices across various countries.
+
+   Technologies Used: Python, Streamlit, Pandas, Plotly, Seaborn​
+
+   Features:
+
+   🗺️  Interactive dropdown menus for selecting indices and countries​
+        GitHub+1GitHub+1
+
+  🧮 Insights into price levels, rent, groceries, and more
+    
+   📊  Customizable chart titles and color schemes​
+        GitHub
+
+   Outcome: Facilitates users in making informed decisions regarding global cost comparisons.
+
+
+📊 Retail Sales Dashboard
+
+Designed an interactive Power BI dashboard analyzing regional sales performance.
+
+   📈 Visual storytelling through slicers, KPIs, and drill-down charts
+
+   💼 Used for business insights and quarterly decision-making
+
+
+📬 Let’s Connect
+
+I’m always excited to collaborate, learn, or just chat about data!
+
+   🔗 LinkedIn
+
+   📧 Email: sreejabethu@gmail.com
+
+   🧠 Portfolio Website: https://sreejabethu.github.io/
+
+   📍 Location: United States (Open to Remote & Hybrid Roles)
