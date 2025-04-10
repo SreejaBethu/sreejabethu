@@ -87,4 +87,7 @@ I’m always excited to collaborate, learn, or just chat about data!
 
    🧠 Portfolio Website: https://sreejabethu.github.io/
 
+   [![Sreeja's Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://kaggle.com/sreejab22)
+   
+
    📍 Location: United States (Open to Remote & Hybrid Roles)
