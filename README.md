@@ -76,6 +76,17 @@ Here are a few projects that reflect my skills and problem-solving capabilities:
 - 📈 **Time-series forecasting** with ARIMA & statsmodels  
 - 📉 **Actionable sales insights** for business planning  
 
+## 🏅 Full Set of Kaggle Badges 
+### 🏷️ Kaggle Badges
+
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://kaggle.com/code/sreejab22/gen-ai-job-application-assistant)
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-@sreejab22-blue?logo=kaggle)](https://kaggle.com/sreejab22)
+[![Kaggle Competitions](https://img.shields.io/badge/Kaggle-Competitions-orange?logo=kaggle)](https://kaggle.com/sreejab22/competitions)
+[![Kaggle Datasets](https://img.shields.io/badge/Kaggle-Datasets-lightgrey?logo=kaggle)](https://kaggle.com/sreejab22/datasets)
+[![Kaggle Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-9cf?logo=kaggle)](https://kaggle.com/sreejab22/code)
+[![Kaggle Discussions](https://img.shields.io/badge/Kaggle-Discussions-yellow?logo=kaggle)](https://kaggle.com/sreejab22/discussion)
+
+
 
 📬 Let’s Connect
 
@@ -85,9 +96,8 @@ I’m always excited to collaborate, learn, or just chat about data!
 
    📧 Email: sreejabethu@gmail.com
 
-   🧠 Portfolio Website: https://sreejabethu.github.io/
-
-   [![Sreeja's Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://kaggle.com/sreejab22)
-   
+   🧠 Portfolio Website: https://sreejabethu.github.io/   
 
    📍 Location: United States (Open to Remote & Hybrid Roles)
+
+
