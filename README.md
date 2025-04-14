@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Sreeja Bethu**
 
-## 🎯 **Data Analyst | Aspiring Business Analyst | Insight-Driven Storyteller**
+## 🎯 **Data Analyst | AI-Powered Automation Builder | LLMs + BI + Strategy**
 
-I'm passionate about transforming data into actionable insights that drive strategic decisions and measurable outcomes. With a strong foundation in both data analytics and business understanding, I specialize in uncovering trends, solving real-world problems, and helping organizations make data-backed decisions.
+I'm passionate about transforming data into actionable insights that drive strategic decisions and measurable outcomes. Passionate about data storytelling, AI automation, and solving business problems using large language models, dashboards, and ETL workflows. With a strong foundation in both data analytics and business understanding, I specialize in uncovering trends, solving real-world problems, and helping organizations make data-backed decisions.  
 
 I enjoy working with large datasets, building dashboards, and generating reports that speak the language of business. From cleaning raw data to visualizing key metrics, I make sure every data point counts.
 
@@ -10,9 +10,9 @@ I enjoy working with large datasets, building dashboards, and generating reports
 
 ### 👩‍💻 Programming & Query Languages
 
- **Python** – *Data manipulation (Pandas, NumPy), analysis, and automation*
+ **Python** – *Data manipulation (Pandas, NumPy), analysis, automation, LLM integration (Gemini Pro, OpenAI), scripting*
  
- **SQL** – *Advanced querying, joins, CTEs, window functions, and optimization*
+ **SQL** – *Advanced querying, joins, CTEs, window functions, optimization, window functions, data validation*
  
  **Excel** – *Functions, pivot tables, dashboards, and VBA basics*
 
@@ -20,11 +20,11 @@ I enjoy working with large datasets, building dashboards, and generating reports
 
 ### 📊 Data Visualization
 
-   **Power BI** – *Interactive dashboards and data storytelling*
+   **Power BI** – *Interactive dashboards, KPIs and data storytelling*
    
  **Tableau** – *Dynamic reports and visual analytics*
    
-**Matplotlib / Seaborn / Plotly** – *Python-based visualizations*
+**Matplotlib / Seaborn / Plotly / Streamlit** – *Custom visuals, user-interactive web dashboards*
 
 
 
@@ -38,10 +38,39 @@ I enjoy working with large datasets, building dashboards, and generating reports
    
    **Jupyter Notebook / Google Colab** – *Exploratory data analysis notebooks*
 
+### 🤖 AI & Automation  
+
+ **LLMs & GenAI** – Google Gemini, OpenAI GPT, RAG-style prompting  
+
+ **Prompt Engineering** – Structured JSON output, task chaining  
+
+ **NLP & NLG** – Resume matching, cover letter generation, summarization  
+
+### 🛠️ Data Engineering & Workflow  
+
+ **ETL Pipelines** – Data extraction, transformation, loading via Python/SQL  
+
+ **APIs & Web Scraping** – Requests, BeautifulSoup, Gemini API, OpenAI API  
+ 
+ **Version Control** – Git, GitHub  
+
+**Notebooks** – Jupyter, Google Colab 
 
 ## 💼 **Featured Projects**
 
 Here are a few projects that reflect my skills and problem-solving capabilities:
+
+### 🤖 AI Job Application Assistant – Google GenAI Capstone (Finalist) 
+
+AI agent that tailors resumes, matches job descriptions, and writes personalized cover letters.  
+
+- Tools: **Python, Google Gemini Pro, Prompt Engineering**  
+- Outputs: Match scoring, bullet suggestions, JSON-structured output  
+- Featured on Kaggle, GitHub, and YouTube  
+
+🔗 [GitHub Repo](https://github.com/SreejaBethu/GEN-AI-CAPSTONE-PROJECT) | [Kaggle Notebook](https://www.kaggle.com/code/sreejab22/gen-ai-job-application-assistant) | [YouTube Demo](https://youtube.com/your-demo-link)
+
+---
 
 ### 📈 **[Smart Report Analyzer](https://github.com/SreejaBethu/Smart-Report-Analyzer)**
 
@@ -100,4 +129,4 @@ I’m always excited to collaborate, learn, or just chat about data!
 
    📍 Location: United States (Open to Remote & Hybrid Roles)
 
-
+*Let’s make data work smarter with AI 🚀*
