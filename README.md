@@ -1,61 +1,58 @@
 # 👋 Hi there! I'm **Sreeja Bethu**
 
-## 🎯 **Data Analyst | AI-Powered Automation Builder | LLMs + BI + Strategy**
+## 🎯 **Sr. Machine Learning Data Scientist | Generative AI & MLOps | Full-Stack AI Solutions**
 
-I'm passionate about transforming data into actionable insights that drive strategic decisions and measurable outcomes. Passionate about data storytelling, AI automation, and solving business problems using large language models, dashboards, and ETL workflows. With a strong foundation in both data analytics and business understanding, I specialize in uncovering trends, solving real-world problems, and helping organizations make data-backed decisions.  
+I'm a results-driven Machine Learning Data Scientist with over 7 years of experience architecting and deploying end-to-end AI solutions from concept to production. My passion lies in leveraging deep expertise in Generative AI (RAG, LLMs), NLP, and Computer Vision to solve complex business problems, automate processes, and deliver significant, measurable value. I build systems that not only predict but also prescribe actions, turning data into intelligent, automated workflows.
 
-I enjoy working with large datasets, building dashboards, and generating reports that speak the language of business. From cleaning raw data to visualizing key metrics, I make sure every data point counts.
+From engineering multivariate time-series forecasting models and intelligent document processors to deploying edge AI systems, I thrive on the full project lifecycle. This includes architecting robust ETL pipelines, performing advanced feature engineering, building and fine-tuning models, and creating interactive Tableau/Power BI dashboards that provide leadership with on-demand strategic insights.
 
-## 🧰 **Skills & Tools**
+## 🧰 **Technical Skills & Tool-Kit**
 
-### 👩‍💻 Programming & Query Languages
+### 👩‍💻 **Programming & Query Languages**
 
- **Python** – *Data manipulation (Pandas, NumPy), analysis, automation, LLM integration (Gemini Pro, OpenAI), scripting*
+ **Python** – *PySpark, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch*
  
- **SQL** – *Advanced querying, joins, CTEs, window functions, optimization, window functions, data validation*
+ **SQL** – *Advanced querying, ETL, data validation, Stored Procedures*
  
- **Excel** – *Functions, pivot tables, dashboards, and VBA basics*
+ **Other Languages** – *SQL, JAVA, C++*
+
+### 🤖 Generative AI & NLP
+
+**LLMs & Frameworks**: *Google Gemini, LangChain, Transformers, HuggingFace*
+
+**Techniques**: Retrieval-*Augmented Generation (RAG), Prompt Engineering, Text Classification, Sentiment Analysis*
+
+**Core NLP**: *NLTK, spaCy, Text Preprocessing*
+
+### 💡 ML & Data Science
+
+**Core ML**: *Time-Series Forecasting (ARIMA, Prophet), Anomaly Detection, Recommendation Systems, Statistical Modeling, A/B Testing*
+
+**Deep Learning**: *Computer Vision (OpenCV), Graph Neural Networks (GNNs)*
+
+**Platforms**: *AWS SageMaker, GCP Vertex AI, Databricks*
 
 
+### 🛠️ MLOps & Data Engineering
 
-### 📊 Data Visualization
+**Orchestration & Pipelines**: *Airflow, CI/CD, ETL Pipelines*
 
-   **Power BI** – *Interactive dashboards, KPIs and data storytelling*
-   
- **Tableau** – *Dynamic reports and visual analytics*
-   
-**Matplotlib / Seaborn / Plotly / Streamlit** – *Custom visuals, user-interactive web dashboards*
+**Infrastructure**: *Docker, Kubernetes, Confluent Kafka*
+
+**Data Storage**: *Data Warehousing (Redshift, Snowflake), Data Modeling*
+
+**Deployment**: *FastAPI, Streamlit*
 
 
+### 📊 Databases & BI Tools
 
-### 🛠️ Data Handling & Workflow
+**Databases**: *PostgreSQL, MySQL, SQL Server, Neo4j (Graph), MongoDB*
 
-  **ETL Processes** – *Cleaning, transforming, and loading structured data*
-   
-  **PIs & Web Scraping** – *Requests, BeautifulSoup*
-   
-  **Git & GitHub** – *Version control and collaborative development*
-   
-   **Jupyter Notebook / Google Colab** – *Exploratory data analysis notebooks*
+**Visualization**: *Tableau, Power BI, QlikSense, Cognos, MicroStrategy*
 
-### 🤖 AI & Automation  
+**Collaboration & Workflow**: *Git, GitHub, Jira, Confluence, Agile/Scrum*
 
- **LLMs & GenAI** – Google Gemini, OpenAI GPT, RAG-style prompting  
-
- **Prompt Engineering** – Structured JSON output, task chaining  
-
- **NLP & NLG** – Resume matching, cover letter generation, summarization  
-
-### 🛠️ Data Engineering & Workflow  
-
- **ETL Pipelines** – Data extraction, transformation, loading via Python/SQL  
-
- **APIs & Web Scraping** – Requests, BeautifulSoup, Gemini API, OpenAI API  
- 
- **Version Control** – Git, GitHub  
-
-**Notebooks** – Jupyter, Google Colab 
-
+  
 ## 💼 **Featured Projects**
 
 Here are a few projects that reflect my skills and problem-solving capabilities:
@@ -123,9 +120,9 @@ I’m always excited to collaborate, learn, or just chat about data!
 
    🔗 LinkedIn
 
-   📧 Email: sreejabethu@gmail.com
+   📧 Email: bethusreeja@gmail.com
 
-   🧠 Portfolio Website: https://sreejabethu.github.io/   
+   🧠 Portfolio Website: https://sreejabethu.github.io/datascience/
 
    📍 Location: United States (Open to Remote & Hybrid Roles)
 
