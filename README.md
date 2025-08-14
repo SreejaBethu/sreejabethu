@@ -1,10 +1,8 @@
 # 👋 Hi there! I'm **Sreeja Bethu**
 
-## 🎯 **Sr. Machine Learning Data Scientist | Generative AI & MLOps | Full-Stack AI Solutions**
+## 🎯 **Business Data & Reporting Analyst | BI & Visualization | AI-Powered Insights | Risk & Compliance**
 
-I'm a results-driven Machine Learning Data Scientist with over 7 years of experience architecting and deploying end-to-end AI solutions from concept to production. My passion lies in leveraging deep expertise in Generative AI (RAG, LLMs), NLP, and Computer Vision to solve complex business problems, automate processes, and deliver significant, measurable value. I build systems that not only predict but also prescribe actions, turning data into intelligent, automated workflows.
-
-From engineering multivariate time-series forecasting models and intelligent document processors to deploying edge AI systems, I thrive on the full project lifecycle. This includes architecting robust ETL pipelines, performing advanced feature engineering, building and fine-tuning models, and creating interactive Tableau/Power BI dashboards that provide leadership with on-demand strategic insights.
+Results-driven Data Analyst with 5+ years of experience in data analytics, automation, and business intelligence across healthcare, tech, and compliance sectors. Expert in transforming complex datasets into strategic insights using SQL, Python, and AI/ML. Proven track record in reducing manual efforts, improving system performance, and delivering executive-ready dashboards.
 
 ## 🧰 **Technical Skills & Tool-Kit**
 
